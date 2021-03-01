@@ -1,0 +1,268 @@
+# sent_id = 18
+# text = [ DANTES ALAGHERII IOHANNI DE VIRGILIO - EGLOGA I ]
+1	[	[	PUNCT	Pu	_	2	punct	_	CitationHierarchy=II_,Paragraphus_0
+2	DANTES	dantes	PROPN	Sms3n	Case=Nom|Gender=Masc|NounClass=IndEurI|Number=Sing	0	root	_	CitationHierarchy=II_,Paragraphus_0
+3	ALAGHERII	alagherius	PROPN	Sms2g	Case=Gen|Gender=Masc|NounClass=IndEurO|Number=Sing	2	nmod	_	CitationHierarchy=II_,Paragraphus_0
+4	IOHANNI	iohannes	PROPN	Sms3d	Case=Dat|Gender=Masc|NounClass=IndEurI|Number=Sing	2	orphan	_	CitationHierarchy=II_,Paragraphus_0
+5	DE	de	ADP	e	AdpType=Prep	6	case	_	CitationHierarchy=II_,Paragraphus_0
+6	VIRGILIO	vergilius	PROPN	Sms2b	Case=Abl|Gender=Masc|NounClass=IndEurO|Number=Sing	4	nmod	_	CitationHierarchy=II_,Paragraphus_0
+7	-	-	PUNCT	Pu	_	8	punct	_	CitationHierarchy=II_,Paragraphus_0
+8	EGLOGA	egloga	NOUN	sfs1n	Case=Nom|Gender=Fem|NounClass=IndEurA|Number=Sing	2	parataxis	_	CitationHierarchy=II_,Paragraphus_0
+9	I	i	NUM	yy	NumForm=Roman|NumType=Card	8	nummod	_	CitationHierarchy=II_,Paragraphus_0
+10	]	]	PUNCT	Pu	_	2	punct	_	CitationHierarchy=II_,Paragraphus_0
+
+# sent_id = 18-2
+# text = Vidimus in nigris albo patiente lituris Pyerio demulsa sinu modulamina nobis .
+1	Vidimus	video	VERB	va2irp1	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbClass=LatE|VerbForm=Fin|Voice=Act	0	root	_	CitationHierarchy=II_,Paragraphus_1
+2	in	in	ADP	e	AdpType=Prep	6	case	_	CitationHierarchy=II_,Paragraphus_1
+3	nigris	niger	ADJ	afp1b	Case=Abl|Degree=Pos|Gender=Fem|NounClass=IndEurA|Number=Plur	6	amod	_	CitationHierarchy=II_,Paragraphus_1
+4	albo	album	NOUN	sns2b	Case=Abl|Gender=Neut|NounClass=IndEurO|Number=Sing	5	nsubj	_	CitationHierarchy=II_,Paragraphus_1
+5	patiente	patior	VERB	vd3ppsnb	Aspect=Imp|Case=Abl|Degree=Pos|Gender=Neut|NounClass=IndEurI|Number=Sing|Tense=Pres|VerbClass=LatX2|VerbForm=Part|Voice=Act	1	advcl:abs	_	CitationHierarchy=II_,Paragraphus_1
+6	lituris	litura	NOUN	sfp1b	Case=Abl|Gender=Fem|NounClass=IndEurA|Number=Plur	1	obl	_	CitationHierarchy=II_,Paragraphus_1
+7	Pyerio	pierius	ADJ	ams1b	Case=Abl|Degree=Pos|Gender=Masc|NounClass=IndEurO|Number=Sing	9	amod	_	CitationHierarchy=II_,Paragraphus_2
+8	demulsa	demulgeo	VERB	v2prpna	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbClass=LatE|VerbForm=Part|Voice=Pass	10	acl	_	CitationHierarchy=II_,Paragraphus_2
+9	sinu	sinus	NOUN	sms4b	Case=Abl|Gender=Masc|NounClass=IndEurU|Number=Sing	8	obl	_	CitationHierarchy=II_,Paragraphus_2
+10	modulamina	modulamen	NOUN	snp3a	Case=Acc|Gender=Neut|NounClass=IndEurX|Number=Plur	1	obj	_	CitationHierarchy=II_,Paragraphus_2
+11	nobis	ego	PRON	ppp1pmd	Case=Dat|Number=Plur|Person=1|PronType=Prs	8	obl	_	CitationHierarchy=II_,Paragraphus_2
+12	.	.	PUNCT	Pu	_	1	punct	_	CitationHierarchy=II_,Paragraphus_2
+
+# sent_id = 19
+# text = Forte recensentes pastas de more capellas tunc ego sub quercu meus et Melibeus eramus .
+1	Forte	forte	ADV	r	_	10	advmod	_	CitationHierarchy=II_,Paragraphus_3
+2	recensentes	recenseo	VERB	va2pppmn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|NounClass=IndEurI|Number=Plur|Tense=Pres|VerbClass=LatE|VerbForm=Part|Voice=Act	10	advcl:pred	_	CitationHierarchy=II_,Paragraphus_3
+3	pastas	pasco	VERB	vp3prpfa	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|NounClass=IndEurA|Number=Plur|Tense=Past|VerbClass=LatX|VerbForm=Part|Voice=Pass	6	acl	_	CitationHierarchy=II_,Paragraphus_3
+4	de	de	ADP	e	AdpType=Prep	5	case	_	CitationHierarchy=II_,Paragraphus_3
+5	more	mos	NOUN	sms3b	Case=Abl|Gender=Masc|NounClass=IndEurX|Number=Sing	2	obl	_	CitationHierarchy=II_,Paragraphus_3
+6	capellas	capella	NOUN	sfp1a	Case=Acc|Gender=Fem|NounClass=IndEurA|Number=Plur	2	obj	_	CitationHierarchy=II_,Paragraphus_3
+7	tunc	tunc	ADV	r	_	10	advmod	_	CitationHierarchy=II_,Paragraphus_4
+8	ego	ego	PRON	ppp1sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	CitationHierarchy=II_,Paragraphus_4
+9	sub	sub	ADP	e	AdpType=Prep	10	case	_	CitationHierarchy=II_,Paragraphus_4
+10	quercu	quercus	NOUN	sfs4b	Case=Abl|Gender=Fem|NounClass=IndEurU|Number=Sing	0	root	_	CitationHierarchy=II_,Paragraphus_4
+11	meus	meus	DET	dsmsn	Case=Nom|Gender=Masc|NounClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	13	det	_	CitationHierarchy=II_,Paragraphus_4
+12	et	et	CCONJ	co	_	13	cc	_	CitationHierarchy=II_,Paragraphus_4
+13	Melibeus	meliboeus	PROPN	Sms2n	Case=Nom|Gender=Masc|NounClass=IndEurO|Number=Sing	8	conj	_	CitationHierarchy=II_,Paragraphus_4
+14	eramus	sum	AUX	va5iip1	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbClass=LatAnom|VerbForm=Fin|Voice=Act	10	cop	_	CitationHierarchy=II_,Paragraphus_4
+15	.	.	PUNCT	Pu	_	10	punct	_	CitationHierarchy=II_,Paragraphus_4
+
+# sent_id = 20
+# text = Ille quidem - cupiebat enim consciscere cantum - « Tityre , quid Mopsus ? Quid vult ? Edissere » dixit .
+1	Ille	ille	DET	ddismn	Case=Nom|Gender=Masc|NounClass=LatPron|Number=Sing|PronType=Dem	20	nsubj	_	CitationHierarchy=II_,Paragraphus_5
+2	quidem	quidem	ADV	r	_	20	discourse	_	CitationHierarchy=II_,Paragraphus_5
+3	-	-	PUNCT	Pu	_	4	punct	_	CitationHierarchy=II_,Paragraphus_5
+4	cupiebat	cupio	VERB	va3iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=LatX2|VerbForm=Fin|Voice=Act	20	parataxis	_	CitationHierarchy=II_,Paragraphus_5
+5	enim	enim	CCONJ	c	_	4	cc	_	CitationHierarchy=II_,Paragraphus_5
+6	consciscere	conscisco	VERB	va3fp	Aspect=Inch|Tense=Pres|VerbClass=LatX|VerbForm=Inf|Voice=Act	4	xcomp	_	CitationHierarchy=II_,Paragraphus_5
+7	cantum	cantus	NOUN	sms4a	Case=Acc|Gender=Masc|NounClass=IndEurU|Number=Sing	6	obj	_	CitationHierarchy=II_,Paragraphus_5
+8	-	-	PUNCT	Pu	_	4	punct	_	CitationHierarchy=II_,Paragraphus_5
+9	«	«	PUNCT	Pu	_	13	punct	_	CitationHierarchy=II_,Paragraphus_6
+10	Tityre	tityrus	PROPN	Sms2v	Case=Voc|Gender=Masc|NounClass=IndEurO|Number=Sing	13	vocative	_	CitationHierarchy=II_,Paragraphus_6
+11	,	,	PUNCT	Pu	_	13	punct	_	CitationHierarchy=II_,Paragraphus_6
+12	quid	quis	PRON	pitsna	Case=Acc|Gender=Neut|NounClass=LatPron|Number=Sing|PronType=Int	13	orphan	_	CitationHierarchy=II_,Paragraphus_6
+13	Mopsus	mopsus	PROPN	Sms2n	Case=Nom|Gender=Masc|NounClass=IndEurO|Number=Sing	20	parataxis:rep	_	CitationHierarchy=II_,Paragraphus_6
+14	?	?	PUNCT	Pu	_	13	punct	_	CitationHierarchy=II_,Paragraphus_6
+15	Quid	quis	PRON	rt	Case=Acc|Gender=Neut|NounClass=LatPron|Number=Sing|PronType=Int	16	obj	_	CitationHierarchy=II_,Paragraphus_6
+16	vult	volo	VERB	va5ips3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=LatAnom|VerbForm=Fin|Voice=Act	13	conj	_	CitationHierarchy=II_,Paragraphus_6
+17	?	?	PUNCT	Pu	_	16	punct	_	CitationHierarchy=II_,Paragraphus_6
+18	Edissere	edissero	VERB	va3mps2	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbClass=LatX|VerbForm=Fin|Voice=Act	13	parataxis	_	CitationHierarchy=II_,Paragraphus_6
+19	»	»	PUNCT	Pu	_	13	punct	_	CitationHierarchy=II_,Paragraphus_6
+20	dixit	dico	VERB	va3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=LatX|VerbForm=Fin|Voice=Act	0	root	_	CitationHierarchy=II_,Paragraphus_6
+21	.	.	PUNCT	Pu	_	20	punct	_	CitationHierarchy=II_,Paragraphus_6
+
+# sent_id = 23
+# text = Ridebam , Mopse ; magis et magis ille premebat .
+1	Ridebam	rideo	VERB	va2iis1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbClass=LatE|VerbForm=Fin|Voice=Act	0	root	_	CitationHierarchy=II_,Paragraphus_7
+2	,	,	PUNCT	Pu	_	3	punct	_	CitationHierarchy=II_,Paragraphus_7
+3	Mopse	mopsus	PROPN	Sms2v	Case=Voc|Gender=Masc|NounClass=IndEurO|Number=Sing	1	vocative	_	CitationHierarchy=II_,Paragraphus_7
+4	;	;	PUNCT	Pu	_	9	punct	_	CitationHierarchy=II_,Paragraphus_7
+5	magis	magis	ADV	rc	Degree=Cmp	9	advmod	_	CitationHierarchy=II_,Paragraphus_7
+6	et	et	CCONJ	co	_	7	cc	_	CitationHierarchy=II_,Paragraphus_7
+7	magis	magis	ADV	rc	Degree=Cmp	5	conj	_	CitationHierarchy=II_,Paragraphus_7
+8	ille	ille	DET	ddismn	Case=Nom|Gender=Masc|NounClass=LatPron|Number=Sing|PronType=Dem	9	nsubj	_	CitationHierarchy=II_,Paragraphus_7
+9	premebat	premo	VERB	va3iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=LatX|VerbForm=Fin|Voice=Act	1	conj	_	CitationHierarchy=II_,Paragraphus_7
+10	.	.	PUNCT	Pu	_	1	punct	_	CitationHierarchy=II_,Paragraphus_7
+
+# sent_id = 24
+# text = Victus amore sui , posito vix denique risu , « Stulte , quid insanis ? » inquam : « Tua cura capelle te potius poscunt , quanquam mala cenula turbet .
+1	Victus	vinco	VERB	vp3prsmn	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|NounClass=IndEurO|Number=Sing|Tense=Past|VerbClass=LatX|VerbForm=Part|Voice=Pass	17	advcl:pred	_	CitationHierarchy=II_,Paragraphus_8
+2	amore	amor	NOUN	sms3b	Case=Abl|Gender=Masc|NounClass=IndEurX|Number=Sing	1	obl:agent	_	CitationHierarchy=II_,Paragraphus_8
+3	sui	sui	PRON	dps3smg	Case=Gen|Person=3|PronType=Prs|Reflex=Yes	2	nmod	_	CitationHierarchy=II_,Paragraphus_8
+4	,	,	PUNCT	Pu	_	5	punct	_	CitationHierarchy=II_,Paragraphus_8
+5	posito	pono	VERB	vp3prsmb	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Masc|NounClass=IndEurO|Number=Sing|Tense=Past|VerbClass=LatX|VerbForm=Part|Voice=Pass	17	advcl:abs	_	CitationHierarchy=II_,Paragraphus_8
+6	vix	vix	ADV	r	_	5	advmod	_	CitationHierarchy=II_,Paragraphus_8
+7	denique	denique	ADV	r	_	5	advmod	_	CitationHierarchy=II_,Paragraphus_8
+8	risu	risus	NOUN	sms4b	Case=Abl|Gender=Masc|NounClass=IndEurU|Number=Sing	5	nsubj:pass	_	CitationHierarchy=II_,Paragraphus_8
+9	,	,	PUNCT	Pu	_	5	punct	_	CitationHierarchy=II_,Paragraphus_8
+10	«	«	PUNCT	Pu	_	14	punct	_	CitationHierarchy=II_,Paragraphus_9
+11	Stulte	stultus	NOUN	sms2v	Case=Voc|Gender=Masc|NounClass=IndEurO|Number=Sing	14	vocative	_	CitationHierarchy=II_,Paragraphus_9
+12	,	,	PUNCT	Pu	_	14	punct	_	CitationHierarchy=II_,Paragraphus_9
+13	quid	quid	ADV	rt	PronType=Int	14	advmod	_	CitationHierarchy=II_,Paragraphus_9
+14	insanis	insanio	VERB	va4ips2	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbClass=LatI|VerbForm=Fin|Voice=Act	17	parataxis:rep	_	CitationHierarchy=II_,Paragraphus_9
+15	?	?	PUNCT	Pu	_	14	punct	_	CitationHierarchy=II_,Paragraphus_9
+16	»	»	PUNCT	Pu	_	14	punct	_	CitationHierarchy=II_,Paragraphus_9
+17	inquam	inquam	VERB	va5-ips1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbClass=LatX2|VerbForm=Fin|Voice=Act	0	root	_	CitationHierarchy=II_,Paragraphus_9
+18	:	:	PUNCT	Pu	_	17	punct	_	CitationHierarchy=II_,Paragraphus_9
+19	«	«	PUNCT	Pu	_	25	punct	_	CitationHierarchy=II_,Paragraphus_9
+20	Tua	tuus	DET	dsfsn	Case=Nom|Gender=Fem|NounClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	21	det	_	CitationHierarchy=II_,Paragraphus_9
+21	cura	cura	NOUN	sfs1n	Case=Nom|Gender=Fem|NounClass=IndEurA|Number=Sing	25	nsubj	_	CitationHierarchy=II_,Paragraphus_9
+22	capelle	capella	NOUN	sfp1n	Case=Nom|Gender=Fem|NounClass=IndEurA|Number=Plur	21	flat	_	CitationHierarchy=II_,Paragraphus_9
+23	te	tu	PRON	ppp2sma	Case=Acc|Number=Sing|Person=2|PronType=Prs	25	obj	_	CitationHierarchy=II_,Paragraphus_10
+24	potius	potius	ADV	r+	Degree=Cmp	25	advmod	_	CitationHierarchy=II_,Paragraphus_10
+25	poscunt	posco	VERB	va3ipp3	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbClass=LatX|VerbForm=Fin|Voice=Act	17	parataxis:rep	_	CitationHierarchy=II_,Paragraphus_10
+26	,	,	PUNCT	Pu	_	30	punct	_	CitationHierarchy=II_,Paragraphus_10
+27	quanquam	quamquam	SCONJ	cs	_	30	mark	_	CitationHierarchy=II_,Paragraphus_10
+28	mala	malus	ADJ	afs1n	Case=Nom|Degree=Pos|Gender=Fem|NounClass=IndEurA|Number=Sing	29	amod	_	CitationHierarchy=II_,Paragraphus_10
+29	cenula	cenula	NOUN	sfs1n	Case=Nom|Gender=Fem|NounClass=IndEurA|Number=Sing	30	nsubj	_	CitationHierarchy=II_,Paragraphus_10
+30	turbet	turbo	VERB	va1cps3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbClass=LatA|VerbForm=Fin|Voice=Act	25	advcl	_	CitationHierarchy=II_,Paragraphus_10
+31	.	.	PUNCT	Pu	_	17	punct	_	CitationHierarchy=II_,Paragraphus_10
+
+# sent_id = 26
+# text = Pascua sunt ignota tibi que Menalus alto vertice declivi celator solis inumbrat , herbarum vario florumque inpicta colore .
+1	Pascua	pascuum	NOUN	snp2n	Case=Nom|Gender=Neut|NounClass=IndEurO|Number=Plur	3	nsubj	_	CitationHierarchy=II_,Paragraphus_11
+2	sunt	sum	AUX	va5ipp3	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbClass=LatAnom|VerbForm=Fin|Voice=Act	3	cop	_	CitationHierarchy=II_,Paragraphus_11
+3	ignota	ignosco	ADJ	anp1n	Case=Nom|Degree=Pos|Gender=Neut|NounClass=IndEurO|Number=Plur|Polarity=Neg|VerbForm=Part	0	root	_	CitationHierarchy=II_,Paragraphus_11
+4	tibi	tu	PRON	ppp2smd	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	obl	_	CitationHierarchy=II_,Paragraphus_11
+5	que	qui	PRON	prepna	Case=Acc|Gender=Neut|NounClass=LatPron|Number=Plur|PronType=Rel	12	obj	_	CitationHierarchy=II_,Paragraphus_11
+6	Menalus	maenalus	PROPN	Sms2n	Case=Nom|Gender=Masc|NounClass=IndEurO|Number=Sing	12	nsubj	_	CitationHierarchy=II_,Paragraphus_11
+7	alto	altus	ADJ	ams1b	Case=Abl|Degree=Pos|Gender=Masc|NounClass=IndEurO|Number=Sing|VerbForm=Part	8	amod	_	CitationHierarchy=II_,Paragraphus_11
+8	vertice	vertex	NOUN	sms3b	Case=Abl|Gender=Masc|NounClass=IndEurX|Number=Sing	6	nmod	_	CitationHierarchy=II_,Paragraphus_12
+9	declivi	declivus	ADJ	ams1g	Case=Gen|Degree=Pos|Gender=Masc|NounClass=IndEurO|Number=Sing	11	amod	_	CitationHierarchy=II_,Paragraphus_12
+10	celator	celator	NOUN	sms3n	Case=Nom|Gender=Masc|NounClass=IndEurX|Number=Sing	6	appos	_	CitationHierarchy=II_,Paragraphus_12
+11	solis	sol	NOUN	sms3g	Case=Gen|Gender=Masc|NounClass=IndEurX|Number=Sing	10	nmod	_	CitationHierarchy=II_,Paragraphus_12
+12	inumbrat	inumbro	VERB	va1ips3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=LatA|VerbForm=Fin|Voice=Act	1	acl:relcl	_	CitationHierarchy=II_,Paragraphus_12
+13	,	,	PUNCT	Pu	_	12	punct	_	CitationHierarchy=II_,Paragraphus_12
+14	herbarum	herba	NOUN	sfp1g	Case=Gen|Gender=Fem|NounClass=IndEurA|Number=Plur	19	nmod	_	CitationHierarchy=II_,Paragraphus_13
+15	vario	varius	ADJ	ams1b	Case=Abl|Degree=Pos|Gender=Masc|NounClass=IndEurO|Number=Sing	19	amod	_	CitationHierarchy=II_,Paragraphus_13
+16-17	florumque	_	_	_	_	_	_	_	CitationHierarchy=II_,Paragraphus_13
+16	florum	flos	NOUN	smp3g	Case=Gen|Gender=Masc|NounClass=IndEurX|Number=Plur	14	conj	_	CitationHierarchy=II_,Paragraphus_13
+17	que	que	CCONJ	9	Clitic=Yes	16	cc	_	CitationHierarchy=II_,Paragraphus_13
+18	inpicta	inpingo	VERB	anp1n	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|NounClass=IndEurO|Number=Plur|Tense=Past|VerbClass=LatX|VerbForm=Part|Voice=Pass	12	advcl:pred	_	CitationHierarchy=II_,Paragraphus_13
+19	colore	color	NOUN	sms3b	Case=Abl|Gender=Masc|NounClass=IndEurX|Number=Sing	18	obl:agent	_	CitationHierarchy=II_,Paragraphus_13
+20	.	.	PUNCT	Pu	_	3	punct	_	CitationHierarchy=II_,Paragraphus_13
+
+# sent_id = 27
+# text = Circuit hec humilis et tectus fronde saligna perpetuis undis a summo margine ripas rorans alveolus , qui , quas mons desuper edit , sponte viam , qua mitis erat , se fecit aquarum .
+1	Circuit	circueo	VERB	va5ips3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=LatAnom|VerbForm=Fin|Voice=Act	0	root	_	CitationHierarchy=II_,Paragraphus_14
+2	hec	hic	DET	ddipna	Case=Acc|Gender=Neut|NounClass=LatPron|Number=Plur|PronType=Dem	1	obj	_	CitationHierarchy=II_,Paragraphus_14
+3	humilis	humilis	ADJ	ams2n	Case=Nom|Degree=Pos|Gender=Masc|NounClass=IndEurI|Number=Sing	15	amod	_	CitationHierarchy=II_,Paragraphus_14
+4	et	et	CCONJ	co	_	5	cc	_	CitationHierarchy=II_,Paragraphus_14
+5	tectus	tego	VERB	vp3prsmn	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|NounClass=IndEurO|Number=Sing|Tense=Past|VerbClass=LatX|VerbForm=Part|Voice=Pass	3	conj	_	CitationHierarchy=II_,Paragraphus_14
+6	fronde	frons	NOUN	sfs3b	Case=Abl|Gender=Fem|NounClass=IndEurX|Number=Sing	5	obl:agent	_	CitationHierarchy=II_,Paragraphus_14
+7	saligna	salignus	ADJ	afs1b	Case=Abl|Degree=Pos|Gender=Fem|NounClass=IndEurA|Number=Sing	6	amod	_	CitationHierarchy=II_,Paragraphus_14
+8	perpetuis	perpetuus	ADJ	afp1b	Case=Abl|Degree=Pos|Gender=Fem|NounClass=IndEurA|Number=Plur	9	amod	_	CitationHierarchy=II_,Paragraphus_15
+9	undis	unda	NOUN	sfp1b	Case=Abl|Gender=Fem|NounClass=IndEurA|Number=Plur	14	obl	_	CitationHierarchy=II_,Paragraphus_15
+10	a	a	ADP	e	AdpType=Prep	12	case	_	CitationHierarchy=II_,Paragraphus_15
+11	summo	superus	ADJ	ams1bs	Case=Abl|Degree=Abs|Gender=Masc|NounClass=IndEurO|Number=Sing	12	amod	_	CitationHierarchy=II_,Paragraphus_15
+12	margine	margo	NOUN	sms3b	Case=Abl|Gender=Masc|NounClass=IndEurX|Number=Sing	14	obl	_	CitationHierarchy=II_,Paragraphus_15
+13	ripas	ripa	NOUN	sfp1a	Case=Acc|Gender=Fem|NounClass=IndEurA|Number=Plur	14	obj	_	CitationHierarchy=II_,Paragraphus_15
+14	rorans	roro	VERB	va1ppsmn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|NounClass=IndEurI|Number=Sing|Tense=Pres|VerbClass=LatA|VerbForm=Part|Voice=Act	15	acl	_	CitationHierarchy=II_,Paragraphus_16
+15	alveolus	alveolus	NOUN	sms2n	Case=Nom|Gender=Masc|NounClass=IndEurO|Number=Sing	1	nsubj	_	CitationHierarchy=II_,Paragraphus_16
+16	,	,	PUNCT	Pu	_	32	punct	_	CitationHierarchy=II_,Paragraphus_16
+17	qui	qui	PRON	presmn	Case=Nom|Gender=Masc|NounClass=LatPron|Number=Sing|PronType=Rel	32	nsubj	_	CitationHierarchy=II_,Paragraphus_16
+18	,	,	PUNCT	Pu	_	22	punct	_	CitationHierarchy=II_,Paragraphus_16
+19	quas	qui	PRON	prepfa	Case=Acc|Gender=Fem|NounClass=LatPron|Number=Plur|PronType=Rel	22	obj	_	CitationHierarchy=II_,Paragraphus_16
+20	mons	mons	NOUN	sms3n	Case=Nom|Gender=Masc|NounClass=IndEurX|Number=Sing	22	nsubj	_	CitationHierarchy=II_,Paragraphus_16
+21	desuper	desuper	ADV	r	_	22	advmod	_	CitationHierarchy=II_,Paragraphus_16
+22	edit	edo	VERB	va3ips3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=LatX|VerbForm=Fin|Voice=Act	33	acl:relcl	_	CitationHierarchy=II_,Paragraphus_16
+23	,	,	PUNCT	Pu	_	22	punct	_	CitationHierarchy=II_,Paragraphus_16
+24	sponte	sponte	ADV	r	_	32	advmod	_	CitationHierarchy=II_,Paragraphus_17
+25	viam	via	NOUN	sfs1a	Case=Acc|Gender=Fem|NounClass=IndEurA|Number=Sing	32	xcomp:pred	_	CitationHierarchy=II_,Paragraphus_17
+26	,	,	PUNCT	Pu	_	28	punct	_	CitationHierarchy=II_,Paragraphus_17
+27	qua	qua	SCONJ	r	_	28	mark	_	CitationHierarchy=II_,Paragraphus_17
+28	mitis	mitis	ADJ	ams2n	Case=Nom|Degree=Pos|Gender=Masc|NounClass=IndEurI|Number=Sing	32	advcl	_	CitationHierarchy=II_,Paragraphus_17
+29	erat	sum	AUX	va5iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=LatAnom|VerbForm=Fin|Voice=Act	28	cop	_	CitationHierarchy=II_,Paragraphus_17
+30	,	,	PUNCT	Pu	_	28	punct	_	CitationHierarchy=II_,Paragraphus_17
+31	se	sui	PRON	ppp3sna	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	32	obj	_	CitationHierarchy=II_,Paragraphus_17
+32	fecit	facio	VERB	va3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbClass=LatX2|VerbForm=Fin|Voice=Act	15	acl:relcl	_	CitationHierarchy=II_,Paragraphus_17
+33	aquarum	aqua	NOUN	sfp1g	Case=Gen|Gender=Fem|NounClass=IndEurA|Number=Plur	25	nmod	_	CitationHierarchy=II_,Paragraphus_17
+34	.	.	PUNCT	Pu	_	1	punct	_	CitationHierarchy=II_,Paragraphus_17
+
+# sent_id = 28
+# text = Mopsus in his , dum lenta boves per gramina ludunt , contemplatur ovans hominum superumque labores ; inde per inflatos calamos interna recludit gaudia , sic ut dulce melos armenta sequantur , placatique ruant campis de monte leones , et refluant unde , frondes et Menala nutent » .
+1	Mopsus	mopsus	PROPN	Sms2n	Case=Nom|Gender=Masc|NounClass=IndEurO|Number=Sing	12	nsubj	_	CitationHierarchy=II_,Paragraphus_18
+2	in	in	ADP	e	AdpType=Prep	3	case	_	CitationHierarchy=II_,Paragraphus_18
+3	his	hic	DET	ddipnb	Case=Abl|Gender=Neut|NounClass=LatPron|Number=Plur|PronType=Dem	12	obl	_	CitationHierarchy=II_,Paragraphus_18
+4	,	,	PUNCT	Pu	_	10	punct	_	CitationHierarchy=II_,Paragraphus_18
+5	dum	dum	SCONJ	cs	_	10	mark	_	CitationHierarchy=II_,Paragraphus_18
+6	lenta	lentus	ADJ	anp1a	Case=Acc|Degree=Pos|Gender=Neut|NounClass=IndEurO|Number=Plur	9	amod	_	CitationHierarchy=II_,Paragraphus_18
+7	boves	bos	NOUN	smp3n	Case=Nom|Gender=Masc|NounClass=IndEurX|Number=Plur	10	nsubj	_	CitationHierarchy=II_,Paragraphus_18
+8	per	per	ADP	e	AdpType=Prep	9	case	_	CitationHierarchy=II_,Paragraphus_18
+9	gramina	gramen	NOUN	snp3a	Case=Acc|Gender=Neut|NounClass=IndEurX|Number=Plur	10	obl	_	CitationHierarchy=II_,Paragraphus_18
+10	ludunt	ludo	VERB	va3ipp3	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbClass=LatX|VerbForm=Fin|Voice=Act	12	advcl	_	CitationHierarchy=II_,Paragraphus_18
+11	,	,	PUNCT	Pu	_	10	punct	_	CitationHierarchy=II_,Paragraphus_18
+12	contemplatur	contemplor	VERB	vd1ips3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=LatA|VerbForm=Fin|Voice=Pass	0	root	_	CitationHierarchy=II_,Paragraphus_19
+13	ovans	ovo	VERB	va1ppsm	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|NounClass=IndEurI|Number=Sing|Tense=Pres|VerbClass=LatA|VerbForm=Part|Voice=Act	12	advcl:pred	_	CitationHierarchy=II_,Paragraphus_19
+14	hominum	homo	NOUN	smp3g	Case=Gen|Gender=Masc|NounClass=IndEurX|Number=Plur	17	nmod	_	CitationHierarchy=II_,Paragraphus_19
+15-16	superumque	_	_	_	_	_	_	_	CitationHierarchy=II_,Paragraphus_19
+15	superum	superus	ADJ	smp2g	Case=Gen|Degree=Pos|Gender=Masc|NounClass=IndEurO|Number=Plur	14	conj	_	CitationHierarchy=II_,Paragraphus_19
+16	que	que	CCONJ	9	Clitic=Yes	15	cc	_	CitationHierarchy=II_,Paragraphus_19
+17	labores	labor	NOUN	smp3a	Case=Acc|Gender=Masc|NounClass=IndEurX|Number=Plur	12	obj	_	CitationHierarchy=II_,Paragraphus_19
+18	;	;	PUNCT	Pu	_	12	punct	_	CitationHierarchy=II_,Paragraphus_19
+19	inde	inde	CCONJ	r	_	24	cc	_	CitationHierarchy=II_,Paragraphus_20
+20	per	per	ADP	e	AdpType=Prep	22	case	_	CitationHierarchy=II_,Paragraphus_20
+21	inflatos	inflatus	VERB	vp1prpma	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|NounClass=IndEurO|Number=Plur|Tense=Past|VerbClass=LatA|VerbForm=Part|Voice=Pass	22	acl	_	CitationHierarchy=II_,Paragraphus_20
+22	calamos	calamus	NOUN	smp2a	Case=Acc|Gender=Masc|NounClass=IndEurO|Number=Plur	24	obl	_	CitationHierarchy=II_,Paragraphus_20
+23	interna	internus	ADJ	anp1a	Case=Acc|Degree=Pos|Gender=Neut|NounClass=IndEurO|Number=Plur	25	amod	_	CitationHierarchy=II_,Paragraphus_20
+24	recludit	recludo	VERB	va3ips3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=LatX|VerbForm=Fin|Voice=Act	12	conj	_	CitationHierarchy=II_,Paragraphus_20
+25	gaudia	gaudium	NOUN	snp2a	Case=Acc|Gender=Neut|NounClass=IndEurO|Number=Plur	24	obj	_	CitationHierarchy=II_,Paragraphus_21
+26	,	,	PUNCT	Pu	_	27	punct	_	CitationHierarchy=II_,Paragraphus_21
+27	sic	sic	ADV	r	PronType=Dem	24	advmod	_	CitationHierarchy=II_,Paragraphus_21
+28	ut	ut	SCONJ	cs	ConjType=Cmpr	32	mark	_	CitationHierarchy=II_,Paragraphus_21
+29	dulce	dulcis	ADJ	ans2a	Case=Acc|Degree=Pos|Gender=Neut|NounClass=IndEurI|Number=Sing	30	amod	_	CitationHierarchy=II_,Paragraphus_21
+30	melos	melos	NOUN	sns2ar	Case=Acc|Gender=Neut|NounClass=IndEurO|Number=Sing|Variant=Greek	32	obj	_	CitationHierarchy=II_,Paragraphus_21
+31	armenta	armentum	NOUN	snp2n	Case=Nom|Gender=Neut|NounClass=IndEurO|Number=Plur	32	nsubj	_	CitationHierarchy=II_,Paragraphus_21
+32	sequantur	sequor	VERB	vd3cpp3	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbClass=LatX|VerbForm=Fin|Voice=Pass	27	advcl:cmpr	_	CitationHierarchy=II_,Paragraphus_21
+33	,	,	PUNCT	Pu	_	36	punct	_	CitationHierarchy=II_,Paragraphus_21
+34-35	placatique	_	_	_	_	_	_	_	CitationHierarchy=II_,Paragraphus_22
+34	placati	placo	VERB	amp1n	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|NounClass=IndEurO|Number=Plur|Tense=Past|VerbClass=LatA|VerbForm=Part|Voice=Pass	36	advcl:pred	_	CitationHierarchy=II_,Paragraphus_22
+35	que	que	CCONJ	9	Clitic=Yes	36	cc	_	CitationHierarchy=II_,Paragraphus_22
+36	ruant	ruo	VERB	va3cpp3	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbClass=LatX|VerbForm=Fin|Voice=Act	32	conj	_	CitationHierarchy=II_,Paragraphus_22
+37	campis	campus	NOUN	smp2d	Case=Dat|Gender=Masc|NounClass=IndEurO|Number=Plur	36	obl:arg	_	CitationHierarchy=II_,Paragraphus_22
+38	de	de	ADP	e	AdpType=Prep	39	case	_	CitationHierarchy=II_,Paragraphus_22
+39	monte	mons	NOUN	sms3b	Case=Abl|Gender=Masc|NounClass=IndEurX|Number=Sing	36	obl	_	CitationHierarchy=II_,Paragraphus_22
+40	leones	leo	NOUN	smp3n	Case=Nom|Gender=Masc|NounClass=IndEurX|Number=Plur	36	nsubj	_	CitationHierarchy=II_,Paragraphus_22
+41	,	,	PUNCT	Pu	_	36	punct	_	CitationHierarchy=II_,Paragraphus_22
+42	et	et	CCONJ	co	_	43	cc	_	CitationHierarchy=II_,Paragraphus_23
+43	refluant	refluo	VERB	va3cpp3	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbClass=LatX|VerbForm=Fin|Voice=Act	32	conj	_	CitationHierarchy=II_,Paragraphus_23
+44	unde	unda	NOUN	sfp1n	Case=Nom|Gender=Fem|NounClass=IndEurA|Number=Plur	43	nsubj	_	CitationHierarchy=II_,Paragraphus_23
+45	,	,	PUNCT	Pu	_	49	punct	_	CitationHierarchy=II_,Paragraphus_23
+46	frondes	frons	NOUN	sfp3a	Case=Acc|Gender=Fem|NounClass=IndEurX|Number=Plur	49	obj	_	CitationHierarchy=II_,Paragraphus_23
+47	et	et	CCONJ	co	_	49	cc	_	CitationHierarchy=II_,Paragraphus_23
+48	Menala	maenala	PROPN	Snp2n	Case=Nom|Gender=Neut|NounClass=IndEurO|Number=Plur	49	nsubj	_	CitationHierarchy=II_,Paragraphus_23
+49	nutent	nuto	VERB	va1cpp3	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbClass=LatA|VerbForm=Fin|Voice=Act	32	conj	_	CitationHierarchy=II_,Paragraphus_23
+50	»	»	PUNCT	Pu	_	12	punct	_	CitationHierarchy=II_,Paragraphus_23
+51	.	.	PUNCT	Pu	_	12	punct	_	CitationHierarchy=II_,Paragraphus_23
+
+# sent_id = 29
+# text = « Tityre , » tunc « si Mopsus » ait « decantat in herbis ignotis , ignota tamen sua carmina possum , te monstrante , meis vagulis prodiscere capris » .
+1	«	«	PUNCT	Pu	_	2	punct	_	CitationHierarchy=II_,Paragraphus_24
+2	Tityre	tityrus	PROPN	Sms2v	Case=Voc|Gender=Masc|NounClass=IndEurO|Number=Sing	21	vocative	_	CitationHierarchy=II_,Paragraphus_24
+3	,	,	PUNCT	Pu	_	2	punct	_	CitationHierarchy=II_,Paragraphus_24
+4	»	»	PUNCT	Pu	_	2	punct	_	CitationHierarchy=II_,Paragraphus_24
+5	tunc	tunc	ADV	r	_	10	advmod	_	CitationHierarchy=II_,Paragraphus_24
+6	«	«	PUNCT	Pu	_	7	punct	_	CitationHierarchy=II_,Paragraphus_24
+7	si	si	SCONJ	cs	_	12	mark	_	CitationHierarchy=II_,Paragraphus_24
+8	Mopsus	mopsus	PROPN	Sms2n	Case=Nom|Gender=Masc|NounClass=IndEurO|Number=Sing	12	nsubj	_	CitationHierarchy=II_,Paragraphus_24
+9	»	»	PUNCT	Pu	_	8	punct	_	CitationHierarchy=II_,Paragraphus_24
+10	ait	aio	VERB	va5-ips3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=LatX2|VerbForm=Fin|Voice=Act	0	root	_	CitationHierarchy=II_,Paragraphus_24
+11	«	«	PUNCT	Pu	_	12	punct	_	CitationHierarchy=II_,Paragraphus_24
+12	decantat	decanto	VERB	va1ips3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbClass=LatA|VerbForm=Fin|Voice=Act	21	advcl	_	CitationHierarchy=II_,Paragraphus_24
+13	in	in	ADP	e	AdpType=Prep	14	case	_	CitationHierarchy=II_,Paragraphus_24
+14	herbis	herba	NOUN	sfp1b	Case=Abl|Gender=Fem|NounClass=IndEurA|Number=Plur	12	obl	_	CitationHierarchy=II_,Paragraphus_24
+15	ignotis	ignotus	ADJ	afp1b	Case=Abl|Degree=Pos|Gender=Fem|NounClass=IndEurA|Number=Plur|Polarity=Neg|VerbForm=Part	14	amod	_	CitationHierarchy=II_,Paragraphus_25
+16	,	,	PUNCT	Pu	_	21	punct	_	CitationHierarchy=II_,Paragraphus_25
+17	ignota	ignotus	ADJ	anp1a	Case=Acc|Degree=Pos|Gender=Neut|NounClass=IndEurO|Number=Plur|Polarity=Neg|VerbForm=Part	20	amod	_	CitationHierarchy=II_,Paragraphus_25
+18	tamen	tamen	ADV	r	_	21	advmod	_	CitationHierarchy=II_,Paragraphus_25
+19	sua	suus	DET	dsnpa	Case=Acc|Gender=Neut|NounClass=IndEurO|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	CitationHierarchy=II_,Paragraphus_25
+20	carmina	carmen	NOUN	snp3a	Case=Acc|Gender=Neut|NounClass=IndEurX|Number=Plur	28	obj	_	CitationHierarchy=II_,Paragraphus_25
+21	possum	possum	VERB	va5ips1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbClass=LatAnom|VerbForm=Fin|Voice=Act	10	parataxis:rep	_	CitationHierarchy=II_,Paragraphus_25
+22	,	,	PUNCT	Pu	_	24	punct	_	CitationHierarchy=II_,Paragraphus_25
+23	te	tu	PRON	ppp2smb	Case=Abl|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	CitationHierarchy=II_,Paragraphus_26
+24	monstrante	monstro	VERB	va1ppsmb	Aspect=Imp|Case=Abl|Degree=Pos|Gender=Masc|NounClass=IndEurI|Number=Sing|Tense=Pres|VerbClass=LatA|VerbForm=Part|Voice=Act	21	advcl:abs	_	CitationHierarchy=II_,Paragraphus_26
+25	,	,	PUNCT	Pu	_	24	punct	_	CitationHierarchy=II_,Paragraphus_26
+26	meis	meus	DET	dsfpd	Case=Dat|Gender=Fem|NounClass=IndEurA|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	29	det	_	CitationHierarchy=II_,Paragraphus_26
+27	vagulis	vagulus	ADJ	afp1d	Case=Dat|Degree=Pos|Gender=Fem|NounClass=IndEurA|Number=Plur	29	amod	_	CitationHierarchy=II_,Paragraphus_26
+28	prodiscere	prodisco	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbClass=LatX|VerbForm=Inf|Voice=Act	21	xcomp	_	CitationHierarchy=II_,Paragraphus_26
+29	capris	capra	NOUN	sfp1d	Case=Dat|Gender=Fem|NounClass=IndEurA|Number=Plur	28	obl:arg	_	CitationHierarchy=II_,Paragraphus_26
+30	»	»	PUNCT	Pu	_	21	punct	_	CitationHierarchy=II_,Paragraphus_26
+31	.	.	PUNCT	Pu	_	10	punct	_	CitationHierarchy=II_,Paragraphus_26
+
