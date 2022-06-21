@@ -1,5 +1,5 @@
 # UDante
-This repository contains the Gold Standard (GS), annotated by an UD expert, created in the context of the UDante project that has the aim of developing a new treebank  containing  all  of  Dante  Alighieri’s Latin works. Texts were taken from the [DanteSearch](https://dantesearch.dantenetwork.it) corpus: the original TEI-XML files, which were already manually lemmatised and morphologically tagged, were converted into the CoNLL-U format and then syntactically annotated using [ConlluEditor](https://github.com/Orange-OpenSource/conllueditor).  
+This repository contains the Gold Standard (GS), annotated by an UD expert, created in the context of the UDante project that has the aim of developing a new treebank  containing  all  of  Dante  Alighieri’s Latin works. Texts were taken from the [DanteSearch](https://dantesearch.dantenetwork.it) corpus: the original TEI-XML files, which were already manually lemmatised and morphologically tagged, were converted into the CoNLL-U format and then syntactically annotated using [ConlluEditor](https://github.com/Orange-OpenSource/conllueditor).
 
 The GS includes:
 - 33 sentences of increasing complexity used to train four annotators
