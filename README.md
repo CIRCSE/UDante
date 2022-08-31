@@ -6,6 +6,7 @@ The GS includes:
 - 10 sentences per work 
 
 **How to cite**
+
 Cecchini, F. M., Sprugnoli, R., Moretti, G., & Passarotti, M. (2020). UDante: First Steps Towards the Universal Dependencies Treebank of Dante’s Latin Works. In Seventh Italian Conference on Computational Linguistics (pp. 1-7). CEUR-WS. org. [PDF](http://ceur-ws.org/Vol-2769/paper_14.pdf)
 
 **Funding**
