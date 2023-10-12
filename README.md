@@ -9,9 +9,12 @@ The GS includes:
 
 Cecchini, F. M., Sprugnoli, R., Moretti, G., & Passarotti, M. (2020). UDante: First Steps Towards the Universal Dependencies Treebank of Dante’s Latin Works. In Seventh Italian Conference on Computational Linguistics (pp. 1-7). CEUR-WS. org. [PDF](http://ceur-ws.org/Vol-2769/paper_14.pdf)
 
+Sprugnoli, Rachele, Passarotti, Marco, Cecchini, Flavio Massimiliano, Pedonese, Giulia, & Moretti, Giovanni. (2023). CIRCSE/UDante: UDante in LiLa (v1.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8435313](https://doi.org/10.5281/zenodo.8435313)
+
 **Funding**
 
 The *LiLa: Linking Latin* project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
+
 
 
 ## Copyright
